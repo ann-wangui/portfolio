@@ -1,7 +1,7 @@
-# charmains-first-ip
+# portfolio
 
 This is going to be a brief description of the landing page that showcases my portfolio.
-### By Charmain Bonareri, 25/02/2022
+### By Ann Wangui, 25/02/2022
 
 <img alt="ann's Portfolio" title="ann's Portfolio" 
 
