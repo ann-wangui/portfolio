@@ -47,7 +47,7 @@ To fix a bug or enhance an existing module, follow these steps:
 
 # Licence
 MIT Licence 
-copyright (c) 2022 Charmain Bonareri. All Rights Reserved.
+copyright (c) 2022 Ann Wangui. All Rights Reserved.
 
 ## Authors information
 Contributions are always welcome! 
